@@ -1,7 +1,7 @@
 {
   "name": "@carsy/stylelint-config",
   "description": "My own stylelint configurations",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "keywords": [
     "style-config",
     "stylelint",

@@ -1,0 +1,28 @@
+{
+  "name": "@carsy/stylelint-config",
+  "description": "My own stylelint configurations",
+  "version": "0.0.0",
+  "keywords": [
+    "style-config",
+    "stylelint",
+    "lint",
+    "linter",
+    "style"
+  ],
+  "author": "Zé Bateira <jlageb@gmail.com>",
+  "homepage": "https://github.com/carsy/stylelint-config",
+  "bugs": {
+    "url": "https://github.com/carsy/stylelint-config/issues"
+  },
+  "repository": "git://github.com/carsy/stylelint-config.git",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@carsy/eslint-config": "^0.4.0",
+    "eslint": "^4.3.0",
+    "stylelint": "^8.0.0"
+  },
+  "peerDependencies": {
+    "stylelint": "^8.0.0"
+  }
+}
